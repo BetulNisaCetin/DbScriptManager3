@@ -7,39 +7,39 @@
 :root {
     --sidebar-width: 256px;
 
-    /* Ana palet */
-    --sidebar-bg: #003C64;              /* color-4 */
-    --sidebar-border: #00508C;          /* color-8 */
-    --sidebar-text: #C8C8C8;            /* color-19 */
-    --sidebar-text-hover: #FFFFFF;      /* color-20 */
-    --sidebar-active-bg: rgba(40, 180, 240, 0.15);   /* color-3 */
-    --sidebar-active-text: #64B4F0;     /* color-7 */
-    --sidebar-active-border: #28B4F0;   /* color-3 */
+    /* Yeni palet */
+    --sidebar-bg: #283c78;
+    --sidebar-border: #005596;
+    --sidebar-text: #f0f0f0;
+    --sidebar-text-hover: #ffffff;
+    --sidebar-active-bg: rgba(0, 140, 240, 0.15);
+    --sidebar-active-text: #008cf0;
+    --sidebar-active-border: #008cf0;
 
-    --accent: #008CF0;                  /* color-5 */
-    --accent-hover: #1464B4;            /* color-9 */
+    --accent: #008cf0;
+    --accent-hover: #005596;
     --accent-light: rgba(0, 140, 240, 0.12);
 
-    --body-bg: #F0F0C8;                 /* color-17 */
-    --card-bg: #FFFFFF;                 /* color-20 */
-    --card-border: #C8C8C8;             /* color-19 */
+    --body-bg: #f0f0f0;
+    --card-bg: #ffffff;
+    --card-border: #dcdcdc;
 
-    --text-primary: #000000;            /* color-1 */
-    --text-secondary: #3C3C3C;          /* color-2 */
-    --text-muted: #787878;              /* color-18 */
-    --border-color: #C8C8C8;            /* color-19 */
+    --text-primary: #283c78;
+    --text-secondary: #3c3c3c;
+    --text-muted: #787878;
+    --border-color: #dcdcdc;
 
-    --success: #3C8CC8;                 /* color-6 */
-    --success-light: rgba(60, 140, 200, 0.12);
+    --success: #008cf0;
+    --success-light: rgba(0, 140, 240, 0.10);
 
-    --danger: #FF0000;                  /* color-13 */
+    --danger: #ff0000;
     --danger-light: rgba(255, 0, 0, 0.10);
 
-    --warning: #F07814;                 /* color-15 */
-    --warning-light: rgba(240, 120, 20, 0.12);
+    --warning: #f07814;
+    --warning-light: rgba(240, 120, 20, 0.10);
 
-    --info: #28B4F0;                    /* color-3 */
-    --info-light: rgba(40, 180, 240, 0.12);
+    --info: #005596;
+    --info-light: rgba(0, 85, 150, 0.10);
 
     --shadow-sm: 0 1px 2px 0 rgba(0,0,0,0.05);
     --shadow: 0 1px 3px 0 rgba(0,0,0,0.1), 0 1px 2px -1px rgba(0,0,0,0.1);
@@ -47,6 +47,7 @@
     --radius: 0.5rem;
     --radius-lg: 0.75rem;
 }
+
 * {
     box-sizing: border-box;
 }
@@ -118,7 +119,7 @@ body {
 .sidebar-logo-title {
     font-size: 0.875rem;
     font-weight: 700;
-    color: #FFFFFF;
+    color: #ffffff;
     line-height: 1.2;
     letter-spacing: -0.01em;
 }
@@ -139,7 +140,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: #C8C8C8;
+    color: var(--sidebar-text);
     padding: 0.5rem 0.5rem 0.25rem;
     margin-top: 0.5rem;
 }
@@ -160,7 +161,7 @@ body {
 }
 
 .sidebar-nav-item:hover {
-    background: rgba(255,255,255,0.05);
+    background: rgba(255,255,255,0.08);
     color: var(--sidebar-text-hover);
     text-decoration: none;
 }
@@ -194,7 +195,7 @@ body {
     gap: 0.625rem;
     padding: 0.5rem 0.75rem;
     border-radius: var(--radius);
-    background: rgba(255,255,255,0.04);
+    background: rgba(255,255,255,0.06);
     margin-bottom: 0.5rem;
 }
 
@@ -220,7 +221,7 @@ body {
 .sidebar-user-name {
     font-size: 0.75rem;
     font-weight: 600;
-    color: #FFFFFF;
+    color: #ffffff;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -389,7 +390,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--text-muted);
-    background: #F0F0C8;
+    background: #f0f0f0;
     white-space: nowrap;
 }
 
@@ -411,7 +412,7 @@ body {
 }
 
 .data-table tbody tr:hover {
-    background: rgba(100, 180, 240, 0.08);
+    background: rgba(0, 140, 240, 0.06);
 }
 
 .data-table tbody td {
@@ -458,8 +459,8 @@ body {
 }
 
 .badge-secondary {
-    background: #F0F0C8;
-    color: #3C3C3C;
+    background: #f0f0f0;
+    color: var(--text-secondary);
 }
 
 .badge-success {
@@ -516,14 +517,14 @@ body {
 }
 
 .btn-secondary:hover {
-    background: #F0F0C8;
+    background: #f0f0f0;
     color: var(--text-primary);
 }
 
 .btn-danger {
     background: white;
     color: var(--danger);
-    border-color: #fecaca;
+    border-color: rgba(255, 0, 0, 0.25);
 }
 
 .btn-danger:hover {
@@ -539,7 +540,7 @@ body {
 }
 
 .btn-ghost:hover {
-    background: #F0F0C8;
+    background: #f0f0f0;
     color: var(--text-primary);
 }
 
@@ -560,8 +561,8 @@ body {
 }
 
 .btn-success:hover {
-    background: #059669;
-    border-color: #059669;
+    background: var(--accent-hover);
+    border-color: var(--accent-hover);
     color: white;
 }
 
@@ -589,26 +590,26 @@ body {
 
 .alert-success {
     background: var(--success-light);
-    border-color: #64B4F0;
-    color: #00508C;
+    border-color: rgba(0, 140, 240, 0.25);
+    color: var(--accent-hover);
 }
 
 .alert-danger {
     background: var(--danger-light);
-    border-color: #fca5a5;
-    color: #FF0000;
+    border-color: rgba(255, 0, 0, 0.25);
+    color: var(--danger);
 }
 
 .alert-warning {
     background: var(--warning-light);
-    color: #F07814;
-    border-color: #FFA028;
+    color: var(--warning);
+    border-color: rgba(240, 120, 20, 0.35);
 }
 
 .alert-info {
     background: var(--info-light);
-    border-color: #93c5fd;
-    color: #1e40af;
+    border-color: rgba(0, 85, 150, 0.25);
+    color: var(--info);
 }
 
 /* =============================================
@@ -645,15 +646,15 @@ body {
 .form-select:focus {
     outline: none;
     border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+    box-shadow: 0 0 0 3px rgba(0, 140, 240, 0.15);
 }
 
 .form-control.textarea-code {
     font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;
     font-size: 0.8125rem;
-    background: #283C78;
-    color: #FFFFFF;
-    border-color: #1464B4;
+    background: #283c78;
+    color: #ffffff;
+    border-color: #005596;
     resize: vertical;
 }
 
@@ -677,11 +678,11 @@ body {
 .validation-summary-errors {
     padding: 0.75rem 1rem;
     background: var(--danger-light);
-    border: 1px solid #fca5a5;
+    border: 1px solid rgba(255, 0, 0, 0.25);
     border-radius: var(--radius);
     margin-bottom: 1rem;
     font-size: 0.8125rem;
-    color: #FF0000;
+    color: var(--danger);
 }
 
 .validation-summary-errors ul {
@@ -694,13 +695,13 @@ body {
    ============================================= */
 
 .code-block {
-    background: #0f172a;
-    border: 1px solid #1e293b;
+    background: #283c78;
+    border: 1px solid #005596;
     border-radius: var(--radius);
     padding: 1rem 1.25rem;
     font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
     font-size: 0.8125rem;
-    color: #e2e8f0;
+    color: #ffffff;
     overflow-x: auto;
     white-space: pre-wrap;
     word-break: break-all;
@@ -755,7 +756,7 @@ body {
 .empty-state-icon {
     width: 48px;
     height: 48px;
-    background: #F0F0C8;
+    background: #f0f0f0;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -812,7 +813,7 @@ body {
     gap: 0.625rem;
     padding: 0.5rem 0.75rem;
     border-radius: var(--radius);
-    color: #ef4444;
+    color: var(--danger);
     font-size: 0.8125rem;
     font-weight: 500;
     background: transparent;
@@ -823,7 +824,7 @@ body {
 }
 
 .sidebar-logout-btn:hover {
-    background: rgba(239, 68, 68, 0.08);
+    background: rgba(255, 0, 0, 0.08);
 }
 
 .sidebar-logout-btn svg {
@@ -934,7 +935,7 @@ a:hover {
 .btn:focus, .btn:active:focus,
 .form-control:focus,
 .form-check-input:focus {
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+    box-shadow: 0 0 0 3px rgba(0, 140, 240, 0.15);
     outline: none;
 }
 
@@ -942,7 +943,6 @@ a:hover {
    IDENTITY DEFAULT UI — style overrides
    ============================================= */
 
-/* Login / Register form in Identity RCL */
 .row > .col-md-4,
 .row > [class*="col-"] > h2 {
     font-size: 1rem;
@@ -950,7 +950,6 @@ a:hover {
     color: var(--text-primary);
 }
 
-/* Identity submit buttons */
 input[type="submit"].btn-primary,
 button[type="submit"].btn-primary {
     background: var(--accent);
@@ -964,19 +963,15 @@ button[type="submit"].btn-primary:hover {
     border-color: var(--accent-hover);
 }
 
-/* Identity links in card area */
 .card a {
     color: var(--accent);
 }
 
-/* Register link at bottom of login card */
 .card p {
     font-size: 0.8125rem;
     color: var(--text-muted);
 }
 
-/* Bootstrap row inside auth card — remove padding */
 .card-body > .row {
     margin: 0;
 }
-
