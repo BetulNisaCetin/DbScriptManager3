@@ -21,16 +21,3 @@ Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManag
 Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/refint/DbScriptManager.Domain.dll
 Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.pdb
 Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptManager.Domain.dll
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.deps.json
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.dll
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.pdb
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.AssemblyReference.cache
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfoInputs.cache
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfo.cs
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.CoreCompileInputs.cache
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.dll
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/refint/DbScriptManager.Domain.dll
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.pdb
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptManager.Domain.dll
-/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.sourcelink.json

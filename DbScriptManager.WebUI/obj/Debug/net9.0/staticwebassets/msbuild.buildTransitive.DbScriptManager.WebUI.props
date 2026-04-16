@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/DbScriptManager.WebUI.props" />
-</Project>
