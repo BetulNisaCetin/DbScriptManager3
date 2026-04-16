@@ -1,0 +1,34 @@
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Infrastructure.deps.json
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Infrastructure.dll
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Infrastructure.pdb
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Application.dll
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Domain.dll
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Application.pdb
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Domain.pdb
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.csproj.AssemblyReference.cache
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.AssemblyInfoInputs.cache
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.AssemblyInfo.cs
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.csproj.CoreCompileInputs.cache
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScript.8D96EE55.Up2Date
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.dll
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\refint\DbScriptManager.Infrastructure.dll
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.pdb
+Z:\New folder\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\ref\DbScriptManager.Infrastructure.dll
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Infrastructure.deps.json
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Infrastructure.dll
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Infrastructure.pdb
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Application.dll
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Domain.dll
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Application.pdb
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\bin\Debug\net9.0\DbScriptManager.Domain.pdb
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.csproj.AssemblyReference.cache
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.AssemblyInfoInputs.cache
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.AssemblyInfo.cs
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.csproj.CoreCompileInputs.cache
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScript.8D96EE55.Up2Date
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.dll
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\refint\DbScriptManager.Infrastructure.dll
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\DbScriptManager.Infrastructure.pdb
+Z:\Project\DbScriptManager\DbScriptManager.Infrastructure\obj\Debug\net9.0\ref\DbScriptManager.Infrastructure.dll

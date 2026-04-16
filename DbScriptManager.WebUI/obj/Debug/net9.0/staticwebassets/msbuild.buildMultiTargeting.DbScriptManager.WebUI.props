@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DbScriptManager.WebUI.props" />
+</Project>

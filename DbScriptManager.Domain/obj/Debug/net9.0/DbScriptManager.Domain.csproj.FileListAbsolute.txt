@@ -1,0 +1,35 @@
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.deps.json
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfoInputs.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfo.cs
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.CoreCompileInputs.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/refint/DbScriptManager.Domain.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptManager.Domain.dll
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.AssemblyReference.cache
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfoInputs.cache
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfo.cs
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.CoreCompileInputs.cache
+Z:/Project/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.deps.json
+Z:/Project/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/Project/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/refint/DbScriptManager.Domain.dll
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.deps.json
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.AssemblyReference.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfoInputs.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.AssemblyInfo.cs
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.csproj.CoreCompileInputs.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/refint/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptManager.Domain.dll

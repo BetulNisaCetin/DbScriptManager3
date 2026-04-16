@@ -1,0 +1,57 @@
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.deps.json
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.runtimeconfig.json
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Application.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Application.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.csproj.AssemblyReference.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.AssemblyInfoInputs.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.AssemblyInfo.cs
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.csproj.CoreCompileInputs.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScript.553E23C7.Up2Date
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/refint/DbScriptManager.Persistence.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.genruntimeconfig.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/ref/DbScriptManager.Persistence.dll
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.deps.json
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.runtimeconfig.json
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.dll
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Application.dll
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Application.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.csproj.AssemblyReference.cache
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.AssemblyInfoInputs.cache
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.AssemblyInfo.cs
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.csproj.CoreCompileInputs.cache
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScript.553E23C7.Up2Date
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.dll
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/refint/DbScriptManager.Persistence.dll
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.genruntimeconfig.cache
+Z:/Project/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/ref/DbScriptManager.Persistence.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.deps.json
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.runtimeconfig.json
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Persistence.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Application.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Application.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.csproj.AssemblyReference.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.AssemblyInfoInputs.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.AssemblyInfo.cs
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.csproj.CoreCompileInputs.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScript.553E23C7.Up2Date
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/refint/DbScriptManager.Persistence.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/DbScriptManager.Persistence.genruntimeconfig.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Persistence/obj/Debug/net9.0/ref/DbScriptManager.Persistence.dll

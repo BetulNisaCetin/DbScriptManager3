@@ -1,0 +1,45 @@
+Z:/New folder/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.deps.json
+Z:/New folder/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.csproj.AssemblyReference.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.AssemblyInfoInputs.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.AssemblyInfo.cs
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.csproj.CoreCompileInputs.cache
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScript.0C83087C.Up2Date
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/refint/DbScriptManager.Application.dll
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.pdb
+Z:/New folder/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/ref/DbScriptManager.Application.dll
+Z:/Project/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.deps.json
+Z:/Project/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.dll
+Z:/Project/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Domain.dll
+Z:/Project/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.csproj.AssemblyReference.cache
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.AssemblyInfoInputs.cache
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.AssemblyInfo.cs
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.csproj.CoreCompileInputs.cache
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScript.0C83087C.Up2Date
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.dll
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/refint/DbScriptManager.Application.dll
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.pdb
+Z:/Project/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/ref/DbScriptManager.Application.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.deps.json
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Application.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/bin/Debug/net9.0/DbScriptManager.Domain.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.csproj.AssemblyReference.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.AssemblyInfoInputs.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.AssemblyInfo.cs
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.csproj.CoreCompileInputs.cache
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScript.0C83087C.Up2Date
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/refint/DbScriptManager.Application.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/DbScriptManager.Application.pdb
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Application/obj/Debug/net9.0/ref/DbScriptManager.Application.dll
