@@ -16,7 +16,7 @@ builder.Services.AddRazorPages();
 
 // DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Identity
 builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
@@ -33,14 +33,19 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
     options.Lockout.AllowedForNewUsers = true;
 })
 .AddEntityFrameworkStores<AppDbContext>()
-.AddDefaultTokenProviders()
-.AddDefaultUI();
+.AddDefaultTokenProviders();
 
-// Login / AccessDenied yönlendirme yolları
+
+
 builder.Services.ConfigureApplicationCookie(options =>
 {
-    options.LoginPath = "/Identity/Account/Login";
-    options.AccessDeniedPath = "/Identity/Account/AccessDenied";
+    options.LoginPath = "/Account/Login";
+    options.AccessDeniedPath = "/Account/Login";
+    options.ExpireTimeSpan = TimeSpan.FromHours(8);
+    options.SlidingExpiration = true;
+    // Bunu ekleyin:
+    options.Cookie.HttpOnly = true;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.SameAsRequest; // HTTPS zorunluluğunu kaldırır
 });
 
 
@@ -80,8 +85,8 @@ app.UseAuthorization();
 // Route
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Script}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 
-app.MapRazorPages();
+//app.MapRazorPages(); //ıdentity ekranını kullanmak istemediğim için 
 
 app.Run();

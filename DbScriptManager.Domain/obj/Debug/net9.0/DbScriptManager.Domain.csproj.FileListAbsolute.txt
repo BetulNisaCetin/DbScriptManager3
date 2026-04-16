@@ -33,3 +33,4 @@ Z:/Project/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptM
 /Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/refint/DbScriptManager.Domain.dll
 /Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.pdb
 /Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/ref/DbScriptManager.Domain.dll
+/Users/betulcetin/Documents/DbScriptManager/DbScriptManager.Domain/obj/Debug/net9.0/DbScriptManager.Domain.sourcelink.json

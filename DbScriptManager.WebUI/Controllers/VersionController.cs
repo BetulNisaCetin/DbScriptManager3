@@ -23,14 +23,14 @@ namespace DbScriptManager.WebUI.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Developer")]
         public IActionResult Create()
         {
             return View(new CreateVersionDto());
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Developer")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(CreateVersionDto dto)
         {
@@ -43,7 +43,7 @@ namespace DbScriptManager.WebUI.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Developer")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
@@ -60,7 +60,7 @@ namespace DbScriptManager.WebUI.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Developer")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> BulkDelete(List<int> selectedIds)
         {

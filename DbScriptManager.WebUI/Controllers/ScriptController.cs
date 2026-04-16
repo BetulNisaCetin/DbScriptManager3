@@ -39,6 +39,11 @@ public class ScriptController : Controller
         ViewBag.Versions = new SelectList(versions, "Id", "VersionName", versionId);
 
         var model = new CreateScriptDto();
+        var user =await _userManager.GetUserAsync(User);
+        if (user != null)
+        {
+            model.DeveloperName = user.UserName;
+        }
 
         if (versionId.HasValue)
         {
@@ -66,6 +71,7 @@ public class ScriptController : Controller
                 return Unauthorized();
 
             dto.CreatedByUserId = user.Id;
+            dto.DeveloperName = user.Email;
 
             await _scriptService.CreateScript(dto);
             TempData["SuccessMessage"] = "Script başarıyla oluşturuldu";

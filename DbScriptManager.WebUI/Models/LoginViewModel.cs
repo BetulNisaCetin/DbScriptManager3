@@ -11,7 +11,8 @@ namespace DbScriptManager.WebUI.Models
         [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }
+
         public bool RememberMe { get; set; }
-        public string UserName { get; set; }
+        // UserName alanını tamamen kaldırın
     }
 }
