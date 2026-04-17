@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace DbScriptManager.WebUI.Views.NewFolder
+namespace DbScriptManager.WebUI.Views.Account
 {
     public class RegisterModel : PageModel
     {

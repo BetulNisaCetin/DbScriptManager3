@@ -29,6 +29,7 @@ public class ScriptController : Controller
     public async Task<IActionResult> Index()
     {
         var scripts = await _scriptService.GetAllScripts();
+        
         return View(scripts);
     }
 
@@ -42,7 +43,7 @@ public class ScriptController : Controller
         var user =await _userManager.GetUserAsync(User);
         if (user != null)
         {
-            model.DeveloperName = user.UserName;
+            model.DeveloperName = user.FullName;
         }
 
         if (versionId.HasValue)
@@ -71,7 +72,7 @@ public class ScriptController : Controller
                 return Unauthorized();
 
             dto.CreatedByUserId = user.Id;
-            dto.DeveloperName = user.Email;
+            dto.DeveloperName = user.FullName;
 
             await _scriptService.CreateScript(dto);
             TempData["SuccessMessage"] = "Script başarıyla oluşturuldu";
